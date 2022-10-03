@@ -6,8 +6,9 @@
 
 .button {
   height: 60px;
-  width: 40px;
+  width: 60px;
   margin: 20px;
+  font-size: 50px;
 }
 
 
